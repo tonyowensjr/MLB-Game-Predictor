@@ -3,7 +3,7 @@ Using Machine Learning and publicly available statistics to predict the results 
 
 # Instructions
 - Run the Training_Data program to scrape and organize the data from all prior games during the season
-- Run the Model program to use that training data to create, tune and test a Random Forest model for predicting the result of the matches
+- Run the RF Model program to use that training data to create, tune and test a Random Forest model for predicting the result of the matches
 - Run the Predictor program to predict the results of the matches using a Monte Carlo style simulation which will calculate each team's chance of winning
 
 # Future Objectives/Areas of improvement
