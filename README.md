@@ -10,5 +10,5 @@ Using Machine Learning and publicly available statistics to predict the results 
 - Find a way to account for players who are injured/unavailable for a given game.
 - Include the rolling statistics instead of the cumulative statistics which will better account for winning/losing streaks and recent form overall
 - Consider adding different Machine Learning Models such as a Neural Network or a Support Vector Machine
-- There is currenlty an issue where there are multiple eligible pitcher on fangraphs  which results in dropping some games since there is not a clear choice for pitcher
+- There is currently an issue where there are multiple eligible pitcher on fangraphs  which results in dropping some games since there is not a clear choice for pitcher
 - There is also an issue where when there is a double header scheduled (two games in the same day by the same two teams) I have not yet found a way to incorporate both, and the model only creates a prediction for the first game
