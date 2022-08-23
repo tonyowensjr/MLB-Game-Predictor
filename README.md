@@ -12,3 +12,7 @@ Using Machine Learning and publicly available statistics to predict the results 
 - Consider adding different Machine Learning Models such as a Neural Network or a Support Vector Machine
 - There is currently an issue where there are multiple eligible pitcher on fangraphs  which results in dropping some games since there is not a clear choice for pitcher
 - There is also an issue where when there is a double header scheduled (two games in the same day by the same two teams) I have not yet found a way to incorporate both, and the model only creates a prediction for the first game
+
+# Update
+- The Random Forest model has been replaced with a gradient boosting machine, which performed noticeably better in comparative testing
+- GB_Model and Game_Predictor_2.0 have been added to allow for implementation of the gradient boosting machine
